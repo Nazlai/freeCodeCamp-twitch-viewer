@@ -1,5 +1,7 @@
 This project was bootstrapped with create-react-app
 
+components are styled with css modules and sass
+
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/Myvqmo/.
 
 Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
